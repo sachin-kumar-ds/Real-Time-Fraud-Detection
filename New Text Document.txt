@@ -1,0 +1,42 @@
+fraud-detection-platform/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│
+├── sql/
+│   ├── schema/
+│   ├── procedures/
+│   ├── analytics/
+│
+├── src/
+│   ├── config/
+│   ├── database/
+│   ├── preprocessing/
+│   ├── feature_engineering/
+│   ├── training/
+│   ├── scoring/
+│   ├── streaming/
+│   ├── explainability/
+│   ├── api/
+│   ├── utils/
+│
+├── models/
+│
+├── dashboards/
+│
+├── shap_reports/
+│
+├── logs/
+│
+├── reports/
+│
+├── tests/
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── main.py
